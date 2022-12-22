@@ -2,10 +2,12 @@
 /* Your CSS Code here. */
 .holder{
     display: flex;
-    justify-content:center
-    
+    align-items: center;
+    justify-content: center;  
 
     }
     .item-1{
-        align-items:center
+        width: 100px;
+        height: 100px;
+        background: black;
     }
